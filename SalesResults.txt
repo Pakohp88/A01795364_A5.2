@@ -1,0 +1,66 @@
+
+FILE TOTAL
+----------
+TC1  911.25
+----------
+execution time 0.0009996891021728516 seconds
+
+FILE TOTAL
+----------
+TC1  911.25
+----------
+execution time 0.002001523971557617 seconds
+
+FILE TOTAL
+----------
+TC1  911.25
+----------
+execution time 0.019969463348388672 seconds
+
+FILE TOTAL
+----------
+TC2  911.2699999999999
+----------
+execution time 0.011002063751220703 seconds
+
+FILE TOTAL
+----------
+TC3  871.9399999999998
+----------
+execution time 0.01000523567199707 seconds
+
+FILE TOTAL
+----------
+TC3  871.9399999999998
+----------
+execution time 0.0009996891021728516 seconds
+
+FILE TOTAL
+----------
+TC1  911.25
+----------
+execution time 0.0020034313201904297 seconds
+
+FILE TOTAL
+----------
+TC2  911.2699999999999
+----------
+execution time 0.0010001659393310547 seconds
+
+FILE TOTAL
+----------
+TC3  871.9399999999998
+----------
+execution time 0.001032114028930664 seconds
+
+FILE TOTAL
+----------
+TC3  871.9399999999998
+----------
+execution time 0.0010044574737548828 seconds
+
+FILE TOTAL
+----------
+TC3  871.9399999999998
+----------
+execution time 0.0010001659393310547 seconds
