@@ -28,10 +28,16 @@ for sale in sales:
     for price in prices:
         if price["title"] == product:
             try:
-                TOTAL_SALES += price["price"]
+                PRICE = price["price"]
             except ValueError:
-                print(f'Invalid Value: { price["price"] }')
+                print(f'Invalid Val:{price["price"]}')
                 continue
+            try:
+                QUANTITY = sale["Quantity"]
+            except ValueError:
+                print(f'Invalid Val:{sale["Quantity"]}')
+                continue
+            TOTAL_SALES += (PRICE * QUANTITY)
 execution_time = time.time() - start_time
 with open("SalesResults.txt", "a", encoding="UTF8") as file_result:
     file_result.write("\nFILE TOTAL\n")
